@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Masalar>
+  <Masa Masano="Masa1">
+    <Password>Masa1</Password>
+  </Masa>
+  <Masa Masano="Masa2">
+    <Password>Masa2</Password>
+  </Masa>
+  <Masa Masano="Masa3">
+    <Password>Masa3</Password>
+  </Masa>
+  <Masa Masano="Masa4">
+    <Password>Masa4</Password>
+  </Masa>
+  <Masa Masano="Masa5">
+    <Password>Masa5</Password>
+  </Masa>
+
+</Masalar>

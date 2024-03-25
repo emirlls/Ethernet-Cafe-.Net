@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Fee>
+
+  <Masa Masano="Masa1">
+    <Süre>0</Süre>
+  </Masa>
+  <Masa Masano="Masa2">
+    <Süre>0</Süre>
+  </Masa>
+  <Masa Masano="Masa3">
+    <Süre>0</Süre>
+  </Masa>
+  <Masa Masano="Masa4">
+    <Süre>0</Süre>
+  </Masa>
+  <Masa Masano="Masa5">
+    <Süre>0</Süre>
+  </Masa>
+
+</Fee>
